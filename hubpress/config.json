@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "darkfirenze",
-    "repositoryName": "darkfirenze.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"darkfirenze","repositoryName":"darkfirenze.github.io","branch":"master"},"site":{"title":"Tes Hubpress","description":"Tes cara pakai hubpress aja","url":"https://darkfirenze.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//darkfirenze.github.io/themes/Casper"}}
