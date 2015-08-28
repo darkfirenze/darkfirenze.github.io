@@ -1,0 +1,13 @@
+= Judul Blog nya
+== Judul alternatif
+== First Level Heading
+:hp-tags: HubPress, Blog, Open Source,
+:hp-alt-title: My English Title
+
+ asdasd
+ asdasdsad 
+ asdasdasd
+ asdasdsad
+ 
+ asdsadsad
+ asdsadasd
